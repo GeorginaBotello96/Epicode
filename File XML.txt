@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<anagrafica>
+    <cliente>
+	
+        <nome>Massimo</nome>
+        <cognome>Furia</cognome>
+      		<ragionesociale>LogicImage srl</ragionesociale>
+		<piva>012345678011</piva>
+		<fatturato>
+			<annuo>1000000</annuo>
+		</fatturato>
+		<codicecliente>0450222</codicecliente>
+	<regione>Lombardia</regione>
+		<provincia>BG</provincia>
+
+	</cliente>
+
+	<cliente>
+	
+        <nome>Luca</nome>
+        <cognome>Rossi</cognome>
+      		<ragionesociale>TorreX srl</ragionesociale>
+		<piva>012389678011</piva>
+		<fatturato>
+			<annuo>2000000</annuo>
+		</fatturato>
+		<codicecliente>0950222</codicecliente>
+	<regione>Lombardia</regione>
+		<provincia>BG</provincia>
+		
+		
+    </cliente>
+
+	<cliente>
+	
+        <nome>Massimo</nome>
+        <cognome>Furia</cognome>
+      		<ragionesociale>LogicImage srl</ragionesociale>
+		<piva>012345678011</piva>
+		<fatturato>
+			<annuo>1000000</annuo>
+		</fatturato>
+		<codicecliente>0450222</codicecliente>
+	<regione>Lombardia</regione>
+		<provincia>BG</provincia>
+		
+		
+    </cliente>
+
+	<cliente>
+	
+        <nome>Massimo</nome>
+        <cognome>Furia</cognome>
+      		<ragionesociale>LogicImage srl</ragionesociale>
+		<piva>012345678011</piva>
+		<fatturato>
+			<annuo>1000000</annuo>
+		</fatturato>
+		<codicecliente>0450222</codicecliente>
+	<regione>Lombardia</regione>
+		<provincia>BG</provincia>
+		
+		
+    </cliente>
+
+	<cliente>
+	
+        <nome>Massimo</nome>
+        <cognome>Furia</cognome>
+      		<ragionesociale>LogicImage srl</ragionesociale>
+		<piva>012345678011</piva>
+		<fatturato>
+			<annuo>1000000</annuo>
+		</fatturato>
+		<codicecliente>0450222</codicecliente>
+	<regione>Lombardia</regione>
+		<provincia>BG</provincia>
+		
+		
+    </cliente>
+	<cliente>
+	
+        <nome>Matteo</nome>
+        <cognome>Gerri</cognome>
+      		<ragionesociale>Strabla srl</ragionesociale>
+		<piva>012345676711</piva>
+		<fatturato>
+			<annuo>8900000</annuo>
+		</fatturato>
+		<codicecliente>0678222</codicecliente>
+	<regione>Lombardia</regione>
+		<provincia>MI</provincia>
+		
+		
+    </cliente>
+	<cliente>
+	
+        <nome>Donatello</nome>
+        <cognome>Barbieri</cognome>
+      		<ragionesociale>Cisco srl</ragionesociale>
+		<piva>012345788901</piva>
+		<fatturato>
+			<annuo>3400000</annuo>
+		</fatturato>
+		<codicecliente>0450345</codicecliente>
+	<regione>Toscana</regione>
+		<provincia>FI</provincia>
+		
+		
+    </cliente>
+    <cliente>
+	
+        <nome>Teobaldo</nome>
+        <cognome>Piotta</cognome>
+        	<ragionesociale>Plutonio e Dderivati spa</ragionesociale>
+		<piva>04512521544</piva>
+		<fatturato>
+			<annuo>200000000</annuo>
+		</fatturato>
+	<codicecliente>0450223</codicecliente>
+	<luogo></luogo>
+		<provincia>		</provincia>
+		
+    </cliente>
+
+	<cliente>
+	
+        <nome>Pietro</nome>
+        <cognome>Milani</cognome>
+      		<ragionesociale>Asdrubale srl</ragionesociale>
+		<piva>015585678011</piva>
+		<fatturato>
+			<annuo>5600000</annuo>
+		</fatturato>
+		<codicecliente>0569022</codicecliente>
+	<regione>Veneto</regione>
+		<provincia>VE</provincia>
+		
+		
+    </cliente>
+	   
+	 <cliente>
+	
+        <nome>Osvaldo</nome>
+        <cognome>Pietradura</cognome>
+        	<ragionesociale>Sassi e Sassi srl</ragionesociale>
+		<piva>0123156780122</piva>
+		<fatturato>
+			<annuo>800000</annuo>
+		</fatturato>
+		<codicecliente>0450224</codicecliente>
+	<luogo>Toscana</luogo>
+		<provincia>PI</provincia>
+	    </cliente>
+</anagrafica>
